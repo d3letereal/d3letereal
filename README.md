@@ -14,7 +14,7 @@
 ---
 
 ### 🔭 Current Project
-- Working on **Oasis**
+- Working on **Byte** a lowlevel coding lang
 
 ### 🌱 Learning
 - Python and C++
