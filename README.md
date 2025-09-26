@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey there! 👋 I'm d3letereal
 
-<!--
-**d3letereal/d3letereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🔭 Currently working on **[Your Project Name]**
+- 🌱 Learning **C++, Python, VR Development, and more**
+- 👯 Open to collaborating on **cool coding projects and games**
+- ⚡ Fun fact: I love making physics-based systems and VR experiences
+
+---
+
+## 💻 Skills
+- Programming: `C++`, `Python`, `C#`, `Arduino`
+- Game Dev: `Unity`, `OpenGL`, `OpenXR`, `Photon Networking`
+- Tools: `Git`, `VS Code`, `Blender`, `ImGui`
+
+---
+
+## 📫 How to Reach Me
+- Email: **marko.chomp@gmail.com**
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Discord: **yourname#1234**
+
+---
+
+## 🌟 GitHub Stats
+![d3letereal's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3letereal&show_icons=true&theme=dark)
+
+---
+
+Thanks for visiting! 😄
