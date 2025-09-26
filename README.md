@@ -36,13 +36,14 @@
   &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=d3letereal&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
 ---
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3letereal&" alt="GitHub Streak" />
 </p>
 
-
+---
 
 ### 🛠 Languages & Tools
 <p align="left">
